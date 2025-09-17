@@ -1,5 +1,3 @@
-archivo README describiendo el trabajo realizado, identificando la autoría, además de incluir referencia a todas las fuentes que hayan sido utilizadas de alguna forma en el desarrollo de la práctica, e indicar si la ejecución del cuaderno requiere alguna instalación adicional. Será adecuado que el o los cuadernos estén también comentados indicando el propósito de las distintas celdas presentadas como resolución de la tarea o tareas solicitadas.
-
 # Visión por Computador | Práctica 1
 
 <p align="center">
